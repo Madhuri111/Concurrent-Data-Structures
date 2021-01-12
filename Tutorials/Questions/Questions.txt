@@ -1,0 +1,7 @@
+{Tutorial 1: Ch. 9  Q. 101, 103.
+ Tutorial 2: Ch. 11 Q. 126, 127
+ Tutorial 3: Ch. 12 Q. 135
+ Tutorial 4: Ch. 10 Q. 121
+ Tutorial 5: Ch. 8  Q. 96
+ Tutorial 6: Ch. 8  Q. 95
+}
